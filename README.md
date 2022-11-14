@@ -7,9 +7,9 @@
 ## Description de moi... 
 Je suis un beau blond (fonce) au yeux bleus, j'aime pas beaucoup de choses mais je m'aime donc je pense que c'est deja ca... bonne journee
 
-Anniversaire | genre | couleur pref | Nourriture fav | ananas sur pizza
--------------|-------|--------------|----------------|------------------
-19 / 09      | H     | Vert         | Nouilles (toutes) | [ ]
+Anniversaire|Genre|Couleur pref|Nourriture fav|Ananas sur pizza
+:-:|:-:|:-:|:-:|:-:
+19 / 09|H|Vert|Nouilles (toutes)| [ ]
 
 ### Mes passe temps :
 * jouer
@@ -22,7 +22,7 @@ Anniversaire | genre | couleur pref | Nourriture fav | ananas sur pizza
 Il faut debug votre code ou boire (je suis plus fort dans l'un des deux mais je dirai pas le quel)
 
 ##### Une histoire drole...
-Quand j'etais enfant, j'etais amoureux du piquan. 
+Quand j'etais enfant, j'etais amoureux du piquant. 
 Un jour, mon pere m'a fait manger un piment tres tres tres tres piquant...
 J'ai fini a l'hopital car mon ventre etait mort... je vous laisse deviner l'etat de mon colon
 
