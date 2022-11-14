@@ -7,9 +7,11 @@
 ## Description de moi... 
 Je suis un beau blond (fonce) au yeux bleus, j'aime pas beaucoup de choses mais je m'aime donc je pense que c'est deja ca... bonne journee
 
-Anniversaire|Genre|Couleur pref|Nourriture fav|Ananas sur pizza
+Anniversaire|Genre|Couleur pref|Nourriture fav
 :-:|:-:|:-:|:-:|:-:
-19 / 09|H|Vert|Nouilles (toutes)| [ ]
+19 / 09|H|Vert|Nouilles (toutes]
+
+- [ ] Ananas sur pizza
 
 ### Mes passe temps :
 * jouer
