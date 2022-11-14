@@ -4,10 +4,11 @@
 
 ![Mon horrible tete](https://scontent.fbru5-1.fna.fbcdn.net/v/t1.6435-9/116133215_154697049554339_8320932023708298984_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=174925&_nc_ohc=VoJ-a1wC3oEAX_pjle1&_nc_ht=scontent.fbru5-1.fna&oh=00_AfBm5TpvVd2bGFLuOwqntT5EoOJpApgJbmI1mWFRwQXpTA&oe=63997F94)
 
-## Je suis un beau blond (fonce) au yeux bleus, j'aime pas beaucoup de choses mais je m'aime donc je pense que c'est deja ca... bonne journee
+## Description de moi... 
+Je suis un beau blond (fonce) au yeux bleus, j'aime pas beaucoup de choses mais je m'aime donc je pense que c'est deja ca... bonne journee
 
 Anniversaire | genre | couleur pref | Nourriture fav | ananas sur pizza
------------------------------------------------------------------------
+-------------|-------|--------------|----------------|------------------
 19 / 09      | H     | Vert         | Nouilles (toutes) | [ ]
 
 ### Mes passe temps :
